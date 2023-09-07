@@ -1,0 +1,14 @@
+/Users/okasi/code/HangmanGame/bin/Debug/net7.0/HangmanGame
+/Users/okasi/code/HangmanGame/bin/Debug/net7.0/HangmanGame.deps.json
+/Users/okasi/code/HangmanGame/bin/Debug/net7.0/HangmanGame.runtimeconfig.json
+/Users/okasi/code/HangmanGame/bin/Debug/net7.0/HangmanGame.dll
+/Users/okasi/code/HangmanGame/bin/Debug/net7.0/HangmanGame.pdb
+/Users/okasi/code/HangmanGame/obj/Debug/net7.0/HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okasi/code/HangmanGame/obj/Debug/net7.0/HangmanGame.AssemblyInfoInputs.cache
+/Users/okasi/code/HangmanGame/obj/Debug/net7.0/HangmanGame.AssemblyInfo.cs
+/Users/okasi/code/HangmanGame/obj/Debug/net7.0/HangmanGame.csproj.CoreCompileInputs.cache
+/Users/okasi/code/HangmanGame/obj/Debug/net7.0/HangmanGame.dll
+/Users/okasi/code/HangmanGame/obj/Debug/net7.0/refint/HangmanGame.dll
+/Users/okasi/code/HangmanGame/obj/Debug/net7.0/HangmanGame.pdb
+/Users/okasi/code/HangmanGame/obj/Debug/net7.0/HangmanGame.genruntimeconfig.cache
+/Users/okasi/code/HangmanGame/obj/Debug/net7.0/ref/HangmanGame.dll
